@@ -1,7 +1,7 @@
 📊 Blinkit Sales Analysis
 
 <p align="center">
-  <img src="C:\Users\lekaa\OneDrive\Desktop" alt="Blinkit Logo" width="200"/>
+  <img src="C:\Users\lekaa\OneDrive\Desktop\blinkit_logo" alt="Blinkit Logo" width="200"/>
 </p>
 
 📝 Project Overview
