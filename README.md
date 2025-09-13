@@ -12,6 +12,7 @@ The objective is to identify sales trends, compare categories, and highlight the
 	•	Pandas – for data cleaning & manipulation
 	•	Matplotlib & Seaborn – for data visualization
 	•	Jupyter Notebook – development environment
+ _____
 
 📂 Dataset
 
@@ -22,12 +23,14 @@ The dataset contains information about:
 	•	Item Fat Content (Low Fat, Regular)
 	•	Sales (Total revenue generated)
 	•	Outlet Establishment Year
+ _____
 
 📊 Analysis & Visualizations
 
 ⿡ Sales by Outlet Location Type
 	•	Tier 3 outlets generate the highest sales, followed by Tier 2 and Tier 1.
 	•	Suggests that Tier 3 regions are the strongest market segment.
+ _____
 
 ⿢ Sales by Outlet Size
 	•	Medium outlets dominate with 42.3% of total sales.
@@ -45,7 +48,7 @@ The dataset contains information about:
 ⿥ Outlet Establishment Year Analysis
 	•	Outlets established around 1998 show the highest sales.
 	•	Sales trend remains relatively stable over time, with a dip around 2010.
-
+_____
 
 📈 Key Insights
 
@@ -54,7 +57,7 @@ The dataset contains information about:
 ✅ Customers prefer Low Fat items → Blinkit could expand healthy product lines.
 ✅ Fruits & Snacks dominate sales → focus on inventory & promotions for these.
 ✅ Some categories like Seafood & Breakfast items underperform → need better marketing or optimization.
-
+______
 
 💡 Conclusion
 
@@ -62,7 +65,7 @@ This analysis provides actionable insights into where Blinkit should focus its s
 	•	Invest more in Tier 3 & Medium outlets.
 	•	Expand healthy/low-fat product offerings.
 	•	Prioritize top-selling categories (Fruits & Snacks) while rethinking underperforming ones.
-
+______
 
 📷 Sample Visualizations
 	•	📍 Sales by Outlet Location Type
