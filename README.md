@@ -5,7 +5,7 @@
 This project explores Blinkit’s sales data and analyzes performance across different dimensions such as outlet location, size, item type, and fat content.
 The objective is to identify sales trends, compare categories, and highlight the outlets that drive maximum revenue.
 
-⸻
+_____
 
 🚀 Technologies Used
 	•	Python 🐍
