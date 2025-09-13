@@ -1,5 +1,9 @@
 📊 Blinkit Sales Analysis
 
+<p align="center">
+  <img src="C:\Users\lekaa\OneDrive\Desktop\Python_Projects\Blinkit_python\blinkit_logo" alt="Blinkit Logo" width="200"/>
+</p>
+
 📝 Project Overview
 
 This project explores Blinkit’s sales data and analyzes performance across different dimensions such as outlet location, size, item type, and fat content.
